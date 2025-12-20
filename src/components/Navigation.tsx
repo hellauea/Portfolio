@@ -57,7 +57,7 @@ export const Navigation = () => {
             ))}
             <Button asChild size="sm">
               <a
-                href="https://wa.me/9606664929"
+                href="https://wa.me/919606664929"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -92,7 +92,7 @@ export const Navigation = () => {
               ))}
               <Button asChild className="w-full mt-2">
                 <a
-                  href="https://wa.me/9606664929"
+                  href="https://wa.me/919606664929"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
