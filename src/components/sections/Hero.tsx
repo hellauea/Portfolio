@@ -32,7 +32,7 @@ export const Hero = () => {
           <div className="fade-in-up delay-400 flex flex-col sm:flex-row items-center justify-center gap-4">
             <Button asChild size="lg" className="gap-2 px-8">
               <a
-                href="https://wa.me/9606664929"
+                href="https://wa.me/919606664929"
                 target="_blank"
                 rel="noopener noreferrer"
               >
