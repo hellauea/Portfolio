@@ -18,7 +18,7 @@ export const Contact = () => {
           {/* Primary CTA */}
           <Button asChild size="lg" className="gap-2 px-8 mb-8">
             <a
-              href="https://wa.me/9606664929"
+              href="https://wa.me/919606664929"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -34,7 +34,7 @@ export const Contact = () => {
               className="flex items-center gap-2 hover:text-primary transition-colors"
             >
               <Mail size={18} />
-              <span className="text-sm">prathap,v5214@gmail.com</span>
+              <span className="text-sm">prathap.v5214@gmail.com</span>
             </a>
             <span className="hidden sm:block text-border">|</span>
             <a
