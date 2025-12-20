@@ -18,7 +18,7 @@ export const Contact = () => {
           {/* Primary CTA */}
           <Button asChild size="lg" className="gap-2 px-8 mb-8">
             <a
-              href="https://wa.me/960666xxxx"
+              href="https://wa.me/9606664929"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -30,11 +30,11 @@ export const Contact = () => {
           {/* Contact Links */}
           <div className="flex flex-col sm:flex-row items-center justify-center gap-6 text-muted-foreground">
             <a
-              href="mailto:xxxyyyzzz@gmail.com"
+              href="mailto:prathap.v5214@gmail.com"
               className="flex items-center gap-2 hover:text-primary transition-colors"
             >
               <Mail size={18} />
-              <span className="text-sm">xxxyyyzzz@gmail.com</span>
+              <span className="text-sm">prathap,v5214@gmail.com</span>
             </a>
             <span className="hidden sm:block text-border">|</span>
             <a
