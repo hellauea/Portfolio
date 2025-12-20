@@ -120,7 +120,7 @@ export const Pricing = () => {
                   variant={plan.popular ? "default" : "outline"}
                 >
                   <a
-                    href="https://wa.me/9606664929"
+                    href="https://wa.me/919606664929"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
